@@ -1,0 +1,17 @@
+[DEFESA]
+1 - Verificar malware
+2 - Limpador de vírus
+3 - Analisar arquivos
+0 - Voltar
+
+[CONFIGURAÇÃO E REDE]
+1 - Scanner de rede
+2 - Informações da rede
+3 - Testar conexão
+0 - Voltar
+
+[FERRAMENTAS]
+1 - Informações do sistema
+2 - Ver IP público
+3 - Informações de um IP
+0 - Voltar
